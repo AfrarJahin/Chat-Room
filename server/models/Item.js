@@ -9,6 +9,7 @@ const ItemSchema = Schema({
     date:{
         type: Date,
         default: Date.now()
+
     }
 });
 

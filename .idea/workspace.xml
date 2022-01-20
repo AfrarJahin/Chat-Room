@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f8cb33b2-9799-4d59-9e69-e384aae6c682" name="Changes" comment="on client" />
+    <list default="true" id="f8cb33b2-9799-4d59-9e69-e384aae6c682" name="Changes" comment="readme edited" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -117,7 +117,7 @@
       <workItem from="1642391661413" duration="5751000" />
       <workItem from="1642478068452" duration="621000" />
       <workItem from="1642564349458" duration="205000" />
-      <workItem from="1642653667998" duration="1120000" />
+      <workItem from="1642653667998" duration="1454000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1641294942453</created>
@@ -140,7 +140,14 @@
       <option name="project" value="LOCAL" />
       <updated>1642658049820</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="readme edited">
+      <created>1642658853176</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1642658853176</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -162,6 +169,7 @@
     <MESSAGE value="socket connection added" />
     <MESSAGE value="completed" />
     <MESSAGE value="on client" />
-    <option name="LAST_COMMIT_MESSAGE" value="on client" />
+    <MESSAGE value="readme edited" />
+    <option name="LAST_COMMIT_MESSAGE" value="readme edited" />
   </component>
 </project>
