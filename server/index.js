@@ -17,7 +17,7 @@ app.use(bodyParser.json());
 const server = http.createServer(app);
 const io = require("socket.io")(server, {
     cors: {
-        origin: "http://localhost:3002",
+        origin: "http://localhost:3000",
         allowedHeaders: '*',
         credentials: true,
         methods: ["GET", "POST"]
